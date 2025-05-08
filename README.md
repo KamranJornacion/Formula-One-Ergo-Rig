@@ -8,8 +8,8 @@ The primary objective of this project was to create an ergonomic rig that can ac
 
 ## 📁 Repository Structure
 - **CADParts/** - Contains all the CAD files for the individual components used in the assembly.
-- **CostAnalysis.pdf** - Provides a rough cost analysis of the Ergo Rig project, including material and manufacturing costs.
-- **ErgoRig_Assembly.png** - A rendered image of the fully assembled Ergo Rig.
+- **CostAnalysis.docx** - Provides a rough cost analysis of the Ergo Rig project, including material and manufacturing costs.
+- **ErgoRig_Assembly.jpg** - A rendered image of the fully assembled Ergo Rig.
 
 ## 📝 Features
 - Adjustable components to accommodate drivers of various sizes.
